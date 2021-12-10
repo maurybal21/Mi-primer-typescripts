@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "http-server": "^14.0.0"
+  },
+  "name": "servidor1",
+  "version": "1.0.0",
+  "description": "http-server",
+  "main": "exit",
+  "devDependencies": {},
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "exit"
+  },
+  "author": "",
+  "license": "ISC"
+}
